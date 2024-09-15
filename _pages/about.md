@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "Zeying Gao (高泽莹)"
+title: #
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-Department of Foreign Languages and Literatures, Tsinghua University  
-📧 gao-zy22@mails.tsinghua.edu.cn
+Hi! I am Zeying (Christine)👋🏻
 
 ## About Me
 
