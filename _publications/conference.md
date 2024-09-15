@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4f04cc1a-45b1-45c1-9108-92368b898c7a)---
+---
 title: "Acquisition of Relevance Implicatures in Preschool Mandarin-speaking Children"
 collection: publications
 category: conferences
