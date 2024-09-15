@@ -13,21 +13,22 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- Journal Articles Section with Links -->
 <h2>Journal Articles</h2>
 <hr />
 <ul>
   {% for post in site.publications %}
     {% if post.category == "journal articles" %}
       <li>
-        <h3><a href="{{ post.url }}">{{ post.title }}</a></h3> <!-- Link to individual page -->
-        <p>{{ post.excerpt }}</p>
+        <h3><a href="{{ post.url }}">{{ post.title }}</a></h3> <!-- Link to detailed page -->
+        <p><strong>Authors:</strong> {{ post.authors }}<br />
+        <strong>Journal:</strong> {{ post.journal }}<br />
+        <strong>DOI:</strong> <a href="{{ post.doi }}">{{ post.doi }}</a><br />
+        <strong>Citation:</strong> {{ post.citation }}</p>
       </li>
     {% endif %}
   {% endfor %}
 </ul>
 
-<!-- Conference Presentations Section without Links -->
 <h2>Conference Presentations</h2>
 <hr />
 <ul>
