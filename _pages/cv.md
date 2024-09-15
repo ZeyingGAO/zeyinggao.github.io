@@ -47,8 +47,7 @@ Working Papers
 
 Research Experience
 ======
-
-Main Research Projects
+Main Research Projects (As Project Leader)
 ------
 * **Acquisition of Relevance Implicatures in Preschool Mandarin-Speaking Children with and without Autism Spectrum Disorder**, Jun 2023 - Present  
 Master Thesis Project  
