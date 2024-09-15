@@ -6,19 +6,14 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="https://scholar.google.com/citations?user=Eyi9zdcAAAAJ&hl=en">my Google Scholar profile</a>.</div>
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
 {% include base_path %}
 
-<!-- Add a link to referred.md -->
-<h2>Refereed Journal Articles</h2>
-<hr />
-<a href="{{ site.baseurl }}/publications/referred/">View Refereed Journal Articles</a>
-
 <!-- New style rendering if publication categories are defined -->
 {% if site.publication_category %}
-  {% for category in site.publication_category %}
+  {% for category in site.publication_category  %}
     {% assign title_shown = false %}
     {% for post in site.publications reversed %}
       {% if post.category != category[0] %}
