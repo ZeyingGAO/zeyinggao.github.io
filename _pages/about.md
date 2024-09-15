@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/5ca466cd-2bab-4d13-995b-5ccba9d581cf)---
-permalink: /
+
 title: "Zeying Gao"
 author_profile: true
 redirect_from: 
