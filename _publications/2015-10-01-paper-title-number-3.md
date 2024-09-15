@@ -1,7 +1,7 @@
 ---
 title: "The Relationship Between Autism Traits and Listening Comprehension Among Chinese Preschool Children with Autism Spectrum Disorder"
 collection: publications
-category: referred journal articles
+category: journal articles
 permalink: /publication/2023-06-01-autism-traits-and-listening-comprehension
 excerpt: 'This study examines the relationship between autism traits and listening comprehension among Chinese preschool children with autism spectrum disorder (ASD).'
 date: 2023-06-01
