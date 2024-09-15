@@ -25,7 +25,6 @@ author_profile: true
           <strong>Authors:</strong> {{ post.authors }}<br />
           <strong>Journal:</strong> {{ post.journal }}<br />
           <strong>DOI:</strong> <a href="{{ post.doi }}">{{ post.doi }}</a><br />
-          <strong>Citation:</strong> {{ post.citation | markdownify }} <!-- Ensures Markdown (italics) in citation works -->
         </p>
       </li>
     {% endif %}
