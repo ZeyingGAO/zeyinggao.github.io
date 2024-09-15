@@ -7,7 +7,6 @@ permalink: /publications/2023-autism-traits-listening-comprehension/
 authors: "Zhao, J., Gao, Z., Lai, J., & Joshi, R. M."
 journal: "Reading and Writing: An Interdisciplinary Journal"
 doi: "https://doi.org/10.1007/s11145-021-10216-8"
-citation: "Zhao, J., Gao, Z., Lai, J., & Joshi, R. M. (2023). The Relationship Between Autism Traits and Listening Comprehension Among Chinese Preschool Children with Autism Spectrum Disorder. *Reading and Writing: An Interdisciplinary Journal*, 36(6), 1441–1459. https://doi.org/10.1007/s11145-021-10216-8"
 indexing: 'SSCI-Q2'
 ---
 
@@ -16,5 +15,5 @@ The purpose of the present study was to investigate the direct and indirect rela
 
 **DOI**: [https://doi.org/10.1007/s11145-021-10216-8](https://doi.org/10.1007/s11145-021-10216-8)  
 
-**citation**: Zhao, J., Gao, Z., Lai, J., & Joshi, R. M. (2023). The Relationship Between Autism Traits and Listening Comprehension Among Chinese Preschool Children with Autism Spectrum Disorder. *Reading and Writing: An Interdisciplinary Journal*, 36(6), 1441–1459. https://doi.org/10.1007/s11145-021-10216-8
+**Citation**: Zhao, J., Gao, Z., Lai, J., & Joshi, R. M. (2023). The Relationship Between Autism Traits and Listening Comprehension Among Chinese Preschool Children with Autism Spectrum Disorder. *Reading and Writing: An Interdisciplinary Journal*, 36(6), 1441–1459. https://doi.org/10.1007/s11145-021-10216-8.
 
