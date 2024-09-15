@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/5ca466cd-2bab-4d13-995b-5ccba9d581cf)---
 permalink: /
 title: "Zeying Gao"
 author_profile: true
@@ -11,7 +11,8 @@ Department of Foreign Languages and Literatures, Tsinghua University
 📧 gao-zy22@mails.tsinghua.edu.cn  
 📞 +86 136-5023-1651  
 
-## About Me
+## 👋🏻 About Me
+Hi! I am Zeying (Christine)!
 
 I am currently pursuing my Master's degree in Foreign Languages and Literatures at Tsinghua University, with a focus on language, psychology, and cognition. My research interests center around the development of social communication skills in both typical and atypical populations, including children with autism. I am particularly passionate about investigating how pragmatic reasoning, language processing, and social cognition contribute to children's social communication development, as well as exploring the familial, cognitive, and neural mechanisms that influence these processes.
 
@@ -23,7 +24,7 @@ Through my academic and professional experiences, I strive to contribute to a de
 
 ---
 
-## Research Interests
+## 🔍 Research Interests
 - **Typical and Atypical Social Communication Development**  
   Investigating the essential processes contributing to children’s social communication development, including word learning, pragmatic reasoning, language processing, social interaction, and social cognition, within both autistic and non-autistic populations.
   
@@ -32,23 +33,23 @@ Through my academic and professional experiences, I strive to contribute to a de
 
 ---
 
-## Education
+## 📖 Education
 ### Tsinghua University, Beijing, China  
 **M.A. in Foreign Languages and Literatures (with an emphasis on language, psychology, and cognition)**  
 _Sep 2022 - Jun 2025_  
-- GPA: 3.97/4.0
-- Core Courses: Research on Corpus Linguistics (A+), Statistics for Psychology (A), Psycholinguistics (A), Neurolinguistics (A)
-- Thesis: Acquisition of Relevance Implicatures in Preschool Mandarin-Speaking Children
 - Advisor: Peng Zhou, Ph.D.
 
 ### Sun Yat-sen University, Guangdong, China  
 **B.A. in English Language and Literature**  
 _Aug 2018 - Jun 2022_  
-- GPA: 4.3/5.0 (4.0/4.0 on international scale)
-- Rank: 1st out of 54 students
-- Core Courses: Language Acquisition (95), Applied Linguistics (97), Advanced Mathematics (100)
-- Thesis: The Relationship Between Theory of Mind and Listening Comprehension Among Chinese Preschoolers with and without Autism Spectrum Disorder
 - Advisor: Jing Zhao, Ph.D.
 
 ---
+
+## 📓 Refereed Journal Articles
+- **Gao, Z.**, Luo, H., Li, T., & Zhao, J. (2024). The relationship between theory of mind and listening comprehension among Chinese preschoolers with and without autism spectrum disorder. *Journal of Autism and Developmental Disorders*. Advance online publication.  
+- **Zhao, J.**, Gao, Z., Lai, J., & Joshi, R. M. (2023). The relationship between autism traits and listening comprehension among Chinese preschool children with autism spectrum disorder. *Reading and Writing: An Interdisciplinary Journal*, 36(6), 1441–1459.
+
+---
+
 
