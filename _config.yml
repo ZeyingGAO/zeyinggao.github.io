@@ -76,6 +76,8 @@ publication_category:
     title: ' Referred Journal Articles'    
   conferences:
     title: 'Conference Presentations'
+  working papers:
+    title: 'Working Papers'  # New category for working papers
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
