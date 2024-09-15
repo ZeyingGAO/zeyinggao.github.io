@@ -9,7 +9,6 @@ authors: "Gao, Z., & Zhou, P."
 date_range: "November 7-10, 2024"
 ---
 
----
 title: "The Relationship Between Theory of Mind and Listening Comprehension Among Chinese Preschoolers with and without Autism Spectrum Disorder"
 collection: publications
 category: conferences
@@ -20,7 +19,6 @@ authors: "Gao, Z., Luo, H., Li, T., & Zhao, J."
 date_range: "June 10-12, 2022"
 ---
 
----
 title: "The Role of Fluid Intelligence in Decoding Skills and Listening Comprehension Among Chinese Preschool Children with and without Autism Spectrum Disorder"
 collection: publications
 category: conferences
@@ -31,7 +29,6 @@ authors: "Luo, H., Gao, Z., Sun, J., & Zhao, J."
 date_range: "February 24-25, 2022"
 ---
 
----
 title: "The Relationship Between Autism Traits and Listening Comprehension Among Chinese Preschool Children with Autism Spectrum Disorder"
 collection: publications
 category: conferences
