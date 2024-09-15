@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zeying Gao"
+title: "Zeying Gao (高泽莹)"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Department of Foreign Languages and Literatures, Tsinghua University  
-📧 gao-zy22@mails.tsinghua.edu.cn  
+📧 gao-zy22@mails.tsinghua.edu.cn
 
 ## About Me
 
@@ -32,10 +32,10 @@ Through my academic and professional experiences, I strive to contribute to a de
 ---
 
 ## Education
-- M.A. in Foreign Languages and Literatures (with an emphasis on language, psychology, and cognition), **Tsinghua University**, Beijing, China  
+- **M.A. in Foreign Languages and Literatures (with an emphasis on language, psychology, and cognition), Tsinghua University, Beijing, China**  
 _Sep 2022 - Jun 2025_  
 
-- B.A. in English Language and Literature, **Sun Yat-sen University**, Guangdong, China  
+- **B.A. in English Language and Literature, Sun Yat-sen University, Guangdong, China**  
 _Aug 2018 - Jun 2022_  
 
 ---
