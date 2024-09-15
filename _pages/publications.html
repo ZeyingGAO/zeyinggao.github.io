@@ -36,14 +36,19 @@ author_profile: true
 <h2>Conference Presentations</h2>
 <hr />
 <ul>
-  {% for post in site.publications %}
+  {% assign sorted_conferences = site.publications | sort: 'date' | reverse %} <!-- Sort by date in reverse (newest first) -->
+  {% for post in sorted_conferences %}
     {% if post.category == "conferences" %}
       <li>
         <h3>{{ post.title }}</h3>
-        <p><strong>Event:</strong> {{ post.venue }}<br />
-        <strong>Date:</strong> {{ post.date | date: "%B %d, %Y" }}<br />
-        <strong>Type:</strong> {{ post.type }}</p>
+        <p>
+          <strong>Authors:</strong> {{ post.authors }}<br />
+          <strong>Venue:</strong> {{ post.venue }}<br />
+          <strong>Date:</strong> {{ post.date_range }}<br />  <!-- Display the date range -->
+          <strong>Type:</strong> {{ post.type }}
+        </p>
       </li>
     {% endif %}
   {% endfor %}
 </ul>
+
