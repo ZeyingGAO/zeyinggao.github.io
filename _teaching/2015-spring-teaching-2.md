@@ -1,20 +1,15 @@
 ---
-title: "Teaching experience 2"
+title: "Intermediate Chinese Teaching Assistant"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Teaching Assistant"
+permalink: /teaching/2023-fall-intermediate-chinese
+venue: "Language Center, Tsinghua University"
+location: "Beijing, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This is a description of my teaching experience as a Teaching Assistant for Intermediate Chinese at Tsinghua University, from September 2023 to January 2024.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+### Responsibilities:
+- Organized Chinese oral practice sessions for international students, offering real-time feedback to enhance students’ language proficiency.
+- Provided one-on-one mentorship to address student inquiries about course content and gave targeted support.
+- Evaluated student performance based on criteria set by the professor.
