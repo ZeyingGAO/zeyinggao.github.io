@@ -2,7 +2,7 @@
 title: "The Relationship Between Autism Traits and Listening Comprehension Among Chinese Preschool Children with Autism Spectrum Disorder"
 collection: publications
 category: journal articles
-date: 2023-06
+date: 2023-06-01
 permalink: /publications/2023-autism-traits-listening-comprehension/
 authors: "Zhao, J., Gao, Z., Lai, J., & Joshi, R. M."
 journal: "Reading and Writing: An Interdisciplinary Journal"
