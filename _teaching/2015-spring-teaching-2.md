@@ -8,7 +8,7 @@ venue: "Language Center, Tsinghua University"
 location: "Beijing, China"
 ---
 
-This is a description of my teaching experience as a Teaching Assistant for Intermediate Chinese at Tsinghua University, from September 2023 to January 2024.
+I worked as a Teaching Assistant for Intermediate Chinese at Tsinghua University, from September 2023 to January 2024.
 
 ### Responsibilities:
 - Organized Chinese oral practice sessions for international students, offering real-time feedback to enhance students’ language proficiency.
