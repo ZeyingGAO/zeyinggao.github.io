@@ -108,7 +108,6 @@ Teaching Assistant
 Service and Leadership
 ======
 * **Reviewer**, *Reading and Writing: An Interdisciplinary Journal* (SSCI-Q2), Mar 2023 – Present  
-  * Evaluated submissions in the field of language acquisition, pragmatics, and autism spectrum disorder (ASD) research.
   
 * **Volunteer**, Beijing Jingdu Children’s Hospital, Beijing, China (Apr 2024 - Present)  
   * Organized recreational activities to provide emotional support and companionship to terminally ill children. 
