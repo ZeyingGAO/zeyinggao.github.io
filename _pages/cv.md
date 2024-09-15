@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Department of Foreign Languages and Literatures, Tsinghua University  
-gao-zy22@mails.tsinghua.edu.cn | +86 136-5023-1651  
+gao-zy22@mails.tsinghua.edu.cn
 [Google Scholar](#) | [ORCID](#) | [ResearchGate](#)
 
 Education
@@ -107,7 +107,7 @@ Service and Leadership
 * **Volunteer**, Beijing Xingxing Yu Education Institute for Children with Autism, Beijing, China (May 2024 - Aug 2024)  
   * Supported autistic children by engaging them in activities designed to foster their social communication skills.
   
-* **Exhibition Organizer**, The 9th Exhibition of Calligraphy and Painting Artworks by Students with Autism, Beijing, China (Apr 2023)  
+* **Volunteer**, The 9th Exhibition of Calligraphy and Painting Artworks by Students with Autism, Beijing, China (Apr 2023)  
   * Contributed to the setup and organization of the exhibition, ensuring an effective display of artworks by autistic children.
   * Provided information to visitors about the exhibition, explaining the characteristics of autistic children and answering questions.
   
