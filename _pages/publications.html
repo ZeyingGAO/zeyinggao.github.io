@@ -25,6 +25,8 @@ author_profile: true
           <strong>Authors:</strong> {{ post.authors }}<br />
           <strong>Journal:</strong> {{ post.journal }}<br />
           <strong>DOI:</strong> <a href="{{ post.doi }}">{{ post.doi }}</a><br />
+          <strong>Date:</strong> {{ post.date | date: "%B %d, %Y" }}<br /> <!-- Display the date -->
+          <strong>Indexing:</strong> {{ post.indexing }} <!-- Display the indexing information -->
         </p>
       </li>
     {% endif %}
