@@ -1,13 +1,13 @@
 ---
-title: "The Relationship Between Theory of Mind and Listening Comprehension Among Chinese Preschoolers with and without Autism Spectrum Disorder"
+title: "The Relationship Between Autism Traits and Listening Comprehension Among Chinese Preschool Children with Autism Spectrum Disorder"
 collection: publications
 category: journal articles
-date: 2024-07-23
-permalink: /publications/2024-07-23-theory-of-mind-listening-comprehension/
-authors: "**Gao, Z.,** Luo, H., Li, T., & Zhao, J."
-journal: "Journal of Autism and Developmental Disorders"
-doi: "https://doi.org/10.1007/s10803-024-06462-8"
-citation: "Gao, Z., Luo, H., Li, T., & Zhao, J. (2024). The Relationship Between Theory of Mind and Listening Comprehension Among Chinese Preschoolers with and without Autism Spectrum Disorder. *Journal of Autism and Developmental Disorders*, Advance online publication. https://doi.org/10.1007/s10803-024-06462-8"
+date: 2023-06-01
+permalink: /publications/2023-autism-traits-listening-comprehension/
+authors: "Zhao, J., Gao, Z., Lai, J., & Joshi, R. M."
+journal: "Reading and Writing: An Interdisciplinary Journal"
+doi: "https://doi.org/10.1007/s11145-021-10216-8"
+citation: "Zhao, J., Gao, Z., Lai, J., & Joshi, R. M. (2023). The Relationship Between Autism Traits and Listening Comprehension Among Chinese Preschool Children with Autism Spectrum Disorder. *Reading and Writing: An Interdisciplinary Journal*, 36(6), 1441–1459. https://doi.org/10.1007/s11145-021-10216-8"
 indexing: 'SSCI-Q2'
 ---
 
