@@ -6,11 +6,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I am Zeying (Christine)👋🏻
+Hi! I am Zeying Gao (Christine)👋🏻
 
 ## About Me
 
-I am currently pursuing my Master's degree in Foreign Languages and Literatures at Tsinghua University, with a focus on language, psychology, and cognition. My research interests center around **the development of social communication skills in both typical and atypical populations**, including children with autism. I am particularly passionate about investigating how **word learning, pragmatic reasoning, social interaction, language processing, and social cognition** contribute to children's social communication development, as well as exploring **the cognitive, neural, familial, and cultural mechanisms that influence these processes**.
+I am currently pursuing my Master's degree in Foreign Languages and Literatures at Tsinghua University, with a focus on language, psychology, and cognition. My research interests center around **the development of social communication skills in both typical and atypical populations**, particularly children with autism spectrum disorder. I am particularly passionate about investigating how **word learning, pragmatic reasoning, social interaction, language processing, and social cognition** contribute to children's social communication development, as well as exploring **the cognitive, neural, familial, and cultural mechanisms that influence these processes**.
+
+Looking ahead, I am eager to expand my research into two key areas. First, I plan to incorporate **computational modeling** to better capture the intricate mechanisms underlying social communication. By drawing on data from both children and adults, I aim to create models that can enhance our understanding of communication patterns and help generate findings that apply broadly across different groups. Second, I am interested in extending my studies to **early infancy**, where I can explore the initial stages of language acquisition. This research could provide critical insights into the typical developmental trajectories of children, as well as how communication challenges emerge. Such insights are vital for improving both early diagnosis and intervention strategies for children with communication delays.
+
+This research could provide critical insights into how communication challenges emerge and evolve, offering valuable evidence for improving early detection and intervention strategies in children with communication delays.
+
+In addition to my research, I have experience as a teaching assistant, where I have worked closely with international students to improve their language skills. I am also actively involved in community outreach, volunteering at organizations dedicated to supporting autistic children.
 
 My academic journey has been marked by my commitment to **interdisciplinary research**, combining insights from linguistics, psychology, and neuroscience to better understand the complexities of language development. I am currently advised by [Professor Peng Zhou](https://peng-zhou.com/research/) of Child Cognition Lab at Zhejiang University (previsouly at Tsinghua University). I was advised by [Professor Jing Zhao](https://scholar.google.com.hk/citations?user=JBzKh54AAAAJ&hl=zh-CN) of Child Language and Literacy Lab at Sun Yat-sen University from 2020 to 2022.
 
@@ -24,14 +30,16 @@ Outside of my academic work, I enjoy **traveling, jogging, practicing calligraph
 
 ## Research Interests
 - **Typical and Atypical Social Communication Development**  
-  Investigating the essential processes contributing to children’s social communication development, including word learning, pragmatic reasoning, language processing, social interaction, and social cognition, within both autistic and non-autistic populations.
+  Investigating the essential processes contributing to children's social communication development, including word learning, pragmatic reasoning, language processing, social interaction, and social cognition, within both autistic and non-autistic populations.
   
 - **Factors and Mechanisms Influencing Social Communication Development**  
-  Exploring how cognitive abilities, neural mechanisms, family environments, and cultural upbringings shape children’s social communication development.
+  Exploring how cognitive abilities, neural mechanisms, family environments, and cultural upbringings shape children's social communication development.
 
 - **Computational Models of Social Communication**  
   Utilizing experimental data from children and adults to develop computational models that formalize the underlying mechanisms of social communication, with the goal of improving reproducibility and providing generalizable insights into social communication development across different populations.
 
+- **Early Infancy and Language Acquisition**  
+  Expanding research to early infancy to better understand children's language development trajectories and to gain deeper insights into the onset of communication challenges. 
 ---
 
 ## Education
