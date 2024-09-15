@@ -2,6 +2,7 @@
 title: "Intermediate Chinese Teaching Assistant"
 collection: teaching
 type: "Teaching Assistant"
+date: 2023-09-18
 permalink: /teaching/2023-fall-intermediate-chinese
 venue: "Language Center, Tsinghua University"
 location: "Beijing, China"
