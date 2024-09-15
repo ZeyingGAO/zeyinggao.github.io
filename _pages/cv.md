@@ -30,20 +30,20 @@ Education
 
 Publications
 ======
-* Gao, Z., Luo, H., Li, T., & Zhao, J. (2024). The relationship between theory of mind and listening comprehension among Chinese preschoolers with and without autism spectrum disorder. *Journal of Autism and Developmental Disorders*. Advance online publication. (SSCI-Q1).
-* Zhao, J., Gao, Z., Lai, J., & Joshi, R. M. (2023). The relationship between autism traits and listening comprehension among Chinese preschool children with autism spectrum disorder. *Reading and Writing: An Interdisciplinary Journal, 36*(6), 1441–1459. (SSCI-Q2). Citations: 8 (Web of Science).
+* **Gao, Z.***, Luo, H., Li, T., & Zhao, J. (2024). The relationship between theory of mind and listening comprehension among Chinese preschoolers with and without autism spectrum disorder. *Journal of Autism and Developmental Disorders*. Advance online publication. (SSCI-Q1).
+* Zhao, J., **Gao, Z.**, Lai, J., & Joshi, R. M. (2023). The relationship between autism traits and listening comprehension among Chinese preschool children with autism spectrum disorder. *Reading and Writing: An Interdisciplinary Journal, 36*(6), 1441–1459. (SSCI-Q2). Citations: 8 (Web of Science).
 
 Peer-Reviewed Conference Presentations
 ======
-* Gao, Z., & Zhou, P. (2024, November 7-10). *Acquisition of relevance implicatures in preschool Mandarin-speaking children* [Poster presentation]. The 49th Annual Boston University Conference on Language Development, Boston, MA, USA.
-* Gao, Z., Luo, H., Li, T., & Zhao, J. (2022, June 10-12). *The relationship between theory of mind and listening comprehension among Chinese preschoolers with and without autism spectrum disorder* [Paper presentation]. The 6th International Conference on Psycholinguistics in China, Hangzhou, Zhejiang, China.
-* Luo, H., Gao, Z., Sun, J., & Zhao, J. (2022, February 24-25). *The role of fluid intelligence in decoding skills and listening comprehension among Chinese preschool children with and without autism spectrum disorder* [Paper presentation]. The 6th Annual Conference for the Association for Reading and Writing in Asia, Virtual Conference.
-* Zhao, J., Gao, Z., Lai, J., & Joshi, R. M. (2021, November 5-7). *The relationship between autism traits and listening comprehension among Chinese preschool children with autism spectrum disorder* [Paper presentation]. The 9th National Conference on Cognitive Neurolinguistics in China, Shanghai, China.
+* **Gao, Z.**, & Zhou, P. (2024, November 7-10). *Acquisition of relevance implicatures in preschool Mandarin-speaking children* [Poster presentation]. The 49th Annual Boston University Conference on Language Development, Boston, MA, USA.
+* **Gao, Z.**, Luo, H., Li, T., & Zhao, J. (2022, June 10-12). *The relationship between theory of mind and listening comprehension among Chinese preschoolers with and without autism spectrum disorder* [Paper presentation]. The 6th International Conference on Psycholinguistics in China, Hangzhou, Zhejiang, China.
+* Luo, H., **Gao, Z.**, Sun, J., & Zhao, J. (2022, February 24-25). *The role of fluid intelligence in decoding skills and listening comprehension among Chinese preschool children with and without autism spectrum disorder* [Paper presentation]. The 6th Annual Conference for the Association for Reading and Writing in Asia, Virtual Conference.
+* Zhao, J., **Gao, Z.**, Lai, J., & Joshi, R. M. (2021, November 5-7). *The relationship between autism traits and listening comprehension among Chinese preschool children with autism spectrum disorder* [Paper presentation]. The 9th National Conference on Cognitive Neurolinguistics in China, Shanghai, China.
 
 Working Papers
 ======
-* Gao, Z., & Zhou, P. (2024). *Acquisition of relevance implicatures in preschool Mandarin-speaking children* [Manuscript in preparation]. Department of Foreign Languages and Literatures, Tsinghua University.
-* Luo, H., Gao, Z., Sun, J., & Zhao, J. (2024). *Exploring the roles of fluid intelligence in character recognition and listening comprehension among Chinese preschoolers with and without autism spectrum disorder* [Manuscript submitted for publication]. Department of English, Sun Yat-sen University.
+* **Gao, Z.**, & Zhou, P. (2024). *Acquisition of relevance implicatures in preschool Mandarin-speaking children* [Manuscript in preparation]. Department of Foreign Languages and Literatures, Tsinghua University.
+* Luo, H., **Gao, Z.**, Sun, J., & Zhao, J. (2024). *Exploring the roles of fluid intelligence in character recognition and listening comprehension among Chinese preschoolers with and without autism spectrum disorder* [Manuscript submitted for publication]. Department of English, Sun Yat-sen University.
 
 Research Experience
 ======
