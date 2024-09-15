@@ -18,6 +18,8 @@ In addition to my research, I have experience as a teaching assistant, where I h
 
 Through my academic and professional experiences, I strive to contribute to a deeper understanding of social communication development and to support the needs of children with diverse communication abilities.
 
+Outside of my academic work, I enjoy **traveling, jogging, practicing calligraphy, reading, watching movies**, and I'm an avid fan of **TVB dramas and series**. These activities keep me grounded and inspired as I explore new perspectives in my research.
+
 ---
 
 ## Research Interests
@@ -60,4 +62,4 @@ _Aug 2018 - Jun 2022_
 - **Data Analysis Tools**: R, SPSS, Python, CLAN, MATLAB, Jupyter Notebook, AntConc
 - **Experimental Tools**: PsychoPy, EEG (EEGLAB, 128-channel EEG recording system)
 
-## [View my full CV here](/cv/)
+## [View my full CV here](https://zeyinggao.github.io//cv/)
