@@ -14,4 +14,4 @@ This study aimed to examine the performance on linguistic and cognitive tasks am
 
 **DOI**: [https://doi.org/10.1007/s10803-024-06462-8](https://doi.org/10.1007/s10803-024-06462-8)  
 
-**Citation**: Gao, Z., Luo, H., Li, T., & Zhao, J. (2024). The Relationship Between Theory of Mind and Listening Comprehension Among Chinese Preschoolers with and without Autism Spectrum Disorder. *Journal of Autism and Developmental Disorders*, Advance online publication. https://doi.org/10.1007/s10803-024-06462-8.
+**Citation**: Gao, Z., Luo, H., Li, T., & Zhao, J. (2024). The relationship between theory of mind and listening comprehension among Chinese preschoolers with and without autism spectrum disorder. *Journal of Autism and Developmental Disorders*, Advance online publication. https://doi.org/10.1007/s10803-024-06462-8.
