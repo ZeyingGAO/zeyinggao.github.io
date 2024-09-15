@@ -16,4 +16,3 @@ The purpose of the present study was to investigate the direct and indirect rela
 **DOI**: [https://doi.org/10.1007/s11145-021-10216-8](https://doi.org/10.1007/s11145-021-10216-8)  
 
 **Citation**: Zhao, J., Gao, Z., Lai, J., & Joshi, R. M. (2023). The relationship between autism traits and listening comprehension among chinese preschool children with autism spectrum disorder. *Reading and Writing: An Interdisciplinary Journal*, 36(6), 1441–1459. https://doi.org/10.1007/s11145-021-10216-8.
-
