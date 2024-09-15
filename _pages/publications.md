@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Publications"
-permalink: /publications/
+permalink: [/publications/](https://zeyinggao.github.io//publications/)
 author_profile: true
 ---
 
