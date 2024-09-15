@@ -16,19 +16,21 @@ author_profile: true
 <h2>Journal Articles</h2>
 <hr />
 <ul>
-  {% for post in site.publications %}
+  {% assign sorted_publications = site.publications | sort: 'date' | reverse %} <!-- Sort by date in reverse (newest first) -->
+  {% for post in sorted_publications %}
     {% if post.category == "journal articles" %}
       <li>
         <h3><a href="{{ post.url }}">{{ post.title }}</a></h3> <!-- Link to detailed page -->
-        <p><strong>Authors:</strong> {{ post.authors }}<br />
-        <strong>Journal:</strong> {{ post.journal }}<br />
-        <strong>DOI:</strong> <a href="{{ post.doi }}">{{ post.doi }}</a><br />
-        <strong>Citation:</strong> {{ post.citation }}</p>
+        <p>
+          <strong>Authors:</strong> {{ post.authors }}<br />
+          <strong>Journal:</strong> {{ post.journal }}<br />
+          <strong>DOI:</strong> <a href="{{ post.doi }}">{{ post.doi }}</a><br />
+          <strong>Citation:</strong> {{ post.citation | markdownify }} <!-- Ensures Markdown (italics) in citation works -->
+        </p>
       </li>
     {% endif %}
   {% endfor %}
 </ul>
-
 
 <h2>Conference Presentations</h2>
 <hr />
