@@ -27,7 +27,7 @@ Through my academic and professional experiences, I strive to contribute to a de
 - **Factors and Mechanisms Influencing Social Communication Development**  
   Exploring how cognitive abilities, neural mechanisms, family environments, and cultural upbringings shape children’s social communication development.
 
-**Computational Models of Social Communication**  
+- **Computational Models of Social Communication**  
   Utilizing experimental data from children and adults to develop computational models that formalize the underlying mechanisms of social communication, with the goal of improving reproducibility and providing generalizable insights into social communication development across different populations.
 
 ---
