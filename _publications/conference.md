@@ -2,7 +2,6 @@
 title: "Conference Presentations"
 collection: presentations
 category: conferences
-permalink: /presentations/
 ---
 
 ## Conference Presentations
