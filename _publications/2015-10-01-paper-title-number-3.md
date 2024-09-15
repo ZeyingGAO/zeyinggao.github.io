@@ -1,14 +1,17 @@
 ---
-title: "Paper Title Number 3"
+title: "The Relationship Between Autism Traits and Listening Comprehension Among Chinese Preschool Children with Autism Spectrum Disorder"
 collection: publications
-category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+category: referred journal articles
+permalink: /publication/2023-06-01-autism-traits-and-listening-comprehension
+excerpt: 'This study examines the relationship between autism traits and listening comprehension among Chinese preschool children with autism spectrum disorder (ASD).'
+date: 2023-06-01
+venue: 'Reading and Writing: An Interdisciplinary Journal'
+paperurl: 'https://doi.org/10.1007/s11145-021-10216-8'
+citation: 'Zhao, J., Gao, Z., Lai, J., & Joshi, R. M. (2023). &quot;The Relationship Between Autism Traits and Listening Comprehension Among Chinese Preschool Children with Autism Spectrum Disorder.&quot; <i>Reading and Writing: An Interdisciplinary Journal</i>, 36(6), 1441–1459. https://doi.org/10.1007/s11145-021-10216-8'
+indexing: 'SSCI-Q2'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+The purpose of the present study was to investigate the direct and indirect relationships between autism traits and listening comprehension among Chinese preschool children with autism, of varying verbal and non-verbal IQ. Ninety-eight (*N* = 98) children aged from 35 to 86 months participated in the study. Autism traits were measured with the Chinese version of the Autism Spectrum Quotient: Children’s Version (AQ-Child) (Auyeung et al., J Autism Dev Disord 38:1230–1240. https://doi.org/10.1007/s10803-007-0504-z, 2008). We found that among all five autism traits, social skills and imagination deficits were closely associated with overall listening comprehension. Specifically, children’s imagination, communication, and social skills had direct effects on their listening comprehension of literal statements. Attention switching had an indirect effect on listening comprehension of inferential statements. We discuss the findings in relation to previous research on listening comprehension from a situation model perspective. The research has practical implications concerning the improvement of listening comprehension skills among children with autism spectrum disorder.
+
+
+**DOI**: [https://doi.org/10.1007/s11145-021-10216-8](https://doi.org/10.1007/s11145-021-10216-8)
