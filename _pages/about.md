@@ -27,6 +27,9 @@ Through my academic and professional experiences, I strive to contribute to a de
 - **Factors and Mechanisms Influencing Social Communication Development**  
   Exploring how cognitive abilities, neural mechanisms, family environments, and cultural upbringings shape children’s social communication development.
 
+**Computational Models of Social Communication**  
+  Utilizing experimental data from children and adults to develop computational models that formalize the underlying mechanisms of social communication, with the goal of improving reproducibility and providing generalizable insights into social communication development across different populations.
+
 ---
 
 ## Education
@@ -36,4 +39,25 @@ _Sep 2022 - Jun 2025_
 - **B.A. in English Language and Literature, Sun Yat-sen University, Guangdong, China**  
 _Aug 2018 - Jun 2022_  
 
+
 ---
+
+## Awards and Scholarships
+- **Paula Menyuk Travel Award** ($385), The 49th Annual Boston University Conference on Language Development, 2024
+- **Second-Class Scholarship** (¥5000), Tsinghua University, 2023
+- **Research Postgraduate Summer School Scholarship** (HK$5000), The Hong Kong Polytechnic University, 2022
+- **Outstanding Undergraduate Thesis Award**, Sun Yat-sen University, 2022 (Top 5%)
+- **Outstanding Undergraduate Award**, Sun Yat-sen University, 2022 (Top 5%)
+- **Outstanding Student Research Project Award**, Sun Yat-sen University, 2021
+- **China National Scholarship** (¥8000), Ministry of Education, 2020-2021 (Top 0.2%)
+- **First-Class Scholarship** (¥4000), Sun Yat-sen University, 2019-2021 (Top 5%)
+- **Mitsubishi Corporation International Scholarship** (¥5000), Mitsubishi Corporation, 2019 (Top 0.3%)
+
+---
+
+## Skills
+- **Languages**: Mandarin (native), Cantonese (native), English (fluent; TOEFL iBT 110), Japanese (conversational)
+- **Data Analysis Tools**: R, SPSS, Python, CLAN, MATLAB, Jupyter Notebook, AntConc
+- **Experimental Tools**: PsychoPy, EEG (EEGLAB, 128-channel EEG recording system)
+
+## [View my full CV here](/cv/)
