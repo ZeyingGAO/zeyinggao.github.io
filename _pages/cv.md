@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Zeying Gao"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,16 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-Zeying Gao
 ======
 Department of Foreign Languages and Literatures, Tsinghua University  
 gao-zy22@mails.tsinghua.edu.cn | +86 136-5023-1651  
 [Google Scholar](#) | [ORCID](#) | [ResearchGate](#)
-
-Research Interests
-======
-* Typical and Atypical Social Communication Development: Investigating the essential processes contributing to children’s social communication development, including word learning, pragmatic reasoning, language processing, social interaction, and social cognition, within both autistic and non-autistic populations.
-* Factors and Mechanisms Influencing Social Communication Development: Exploring how cultural upbringings, cognitive abilities, neural mechanisms, and family environments shape children’s social communication development.
 
 Education
 ======
