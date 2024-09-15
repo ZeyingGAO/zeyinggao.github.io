@@ -2,12 +2,12 @@
 title: "The Relationship Between Theory of Mind and Listening Comprehension Among Chinese Preschoolers with and without Autism Spectrum Disorder"
 collection: publications
 category: journal articles
-permalink: /publication/2024-07-23-theory-of-mind-and-listening-comprehension
-excerpt: 'This paper investigates the relationship between theory of mind (ToM) and listening comprehension among Chinese preschoolers, both with and without autism spectrum disorder (ASD).'
 date: 2024-07-23
-venue: 'Journal of Autism and Developmental Disorders'
-paperurl: 'https://doi.org/10.1007/s10803-024-06462-8'
-citation: 'Gao, Z., Luo, H., Li, T., & Zhao, J. (2024). &quot;The Relationship Between Theory of Mind and Listening Comprehension Among Chinese Preschoolers with and without Autism Spectrum Disorder.&quot; <i>Journal of Autism and Developmental Disorders</i>. Advance Online Publication. https://doi.org/10.1007/s10803-024-06462-8'
+permalink: /publications/2024-theory-of-mind-listening-comprehension/
+authors: "Gao, Z., Luo, H., Li, T., & Zhao, J."
+journal: "Journal of Autism and Developmental Disorders"
+doi: "https://doi.org/10.1007/s10803-024-06462-8"
+citation: "Gao, Z., Luo, H., Li, T., & Zhao, J. (2024). The Relationship Between Theory of Mind and Listening Comprehension Among Chinese Preschoolers with and without Autism Spectrum Disorder. *Journal of Autism and Developmental Disorders*, Advance online publication. https://doi.org/10.1007/s10803-024-06462-8"
 indexing: 'SSCI-Q1'
 ---
 
