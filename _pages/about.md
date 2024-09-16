@@ -35,7 +35,7 @@ Outside of my academic work, I enjoy **traveling, jogging, practicing calligraph
   Utilizing experimental data from children and adults to develop computational models that formalize the underlying mechanisms of social communication, with the goal of improving reproducibility and providing generalizable insights into social communication development across different populations.
 
 - **Early Infancy and Language Acquisition**  
-  Expanding research to early infancy to better understand children's language development trajectories and to gain deeper insights into the onset of communication challenges. 
+  Expanding research to early infancy to better understand children's language development trajectories and to gain deeper insights into the onset of communication challenges.
 ---
 
 ## Education
