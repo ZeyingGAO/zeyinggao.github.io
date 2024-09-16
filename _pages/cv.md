@@ -21,7 +21,7 @@ Education
   * Core Courses: Research on Corpus Linguistics (A+), Statistics for Psychology (A), Psycholinguistics (A), Neurolinguistics (A), Semantics (A), Language Acquisition (A), School of Linguistics (A)
 
 * B.A. in English Language and Literature, Sun Yat-sen University, Guangdong, China (Aug 2018 - Jun 2022)
-  * GPA: 4.3/5.0 (4.0/4.0 when calculated internationally)
+  * GPA: 4.3/5.0 (4.0/4.0 when calculated with the 4-point-scale system internationally used)
   * Rank: 1st out of 54 students
   * Thesis: *The Relationship Between Theory of Mind and Listening Comprehension Among Chinese Preschoolers with and without Autism Spectrum Disorder*
   * Advisor: Jing Zhao, Ph.D.
