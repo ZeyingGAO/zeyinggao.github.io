@@ -10,8 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Department of Foreign Languages and Literatures, Tsinghua University  
-gao-zy22@mails.tsinghua.edu.cn
-[Google Scholar](#) | [ORCID](#) | [ResearchGate](#)
+gao-zy22@mails.tsinghua.edu.cn  
 
 Education
 ======
