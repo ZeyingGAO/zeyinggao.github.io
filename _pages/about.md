@@ -16,7 +16,7 @@ Looking ahead, I am eager to expand my research into two key areas. First, I pla
 
 My academic journey has been marked by commitment to **interdisciplinary research**, combining insights from linguistics, psychology, and neuroscience to better understand the complexities of language development. Currently, I am advised by [Professor Peng Zhou](https://peng-zhou.com/research/) of the Child Cognition Lab at Zhejiang University (previsouly at Tsinghua University). From 2020 to 2022, I was advised by [Professor Jing Zhao](https://scholar.google.com.hk/citations?user=JBzKh54AAAAJ&hl=zh-CN) of the Child Language and Literacy Lab at Sun Yat-sen University.
 
-In addition to my research, I have experience as a teaching assistant, where I have worked closely with international students to improve their language skills. I am also actively involved in community outreach, volunteering at organizations dedicated to supporting autistic children.
+In addition to my research, I have experience as a teaching assistant, where I have worked closely with international students to improve their language skills. I am also actively involved in community outreach, volunteering to support autistic children.
 
 Through my academic and professional experiences, I strive to contribute to a deeper understanding of social communication development and to support the needs of children with diverse communication abilities.
 
