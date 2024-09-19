@@ -29,7 +29,7 @@ Education
 
 Publications
 ======
-* **Gao, Z.***, Luo, H., Li, T., & Zhao, J. (2024). The relationship between theory of mind and listening comprehension among Chinese preschoolers with and without autism spectrum disorder. *Journal of Autism and Developmental Disorders*. Advance online publication. (SSCI-Q1).
+* **Gao, Z.**, Luo, H., Li, T., & Zhao, J. (2024). The relationship between theory of mind and listening comprehension among Chinese preschoolers with and without autism spectrum disorder. *Journal of Autism and Developmental Disorders*. Advance online publication. (SSCI-Q1).
 * Zhao, J., **Gao, Z.**, Lai, J., & Joshi, R. M. (2023). The relationship between autism traits and listening comprehension among Chinese preschool children with autism spectrum disorder. *Reading and Writing: An Interdisciplinary Journal, 36*(6), 1441–1459. (SSCI-Q2). Citations: 8 (Web of Science).
 
 Peer-Reviewed Conference Presentations
